@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChoreTracker:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="ChoreTracker.jar">
+      <element id="module-output" name="ChoreTracker" />
+    </root>
+  </artifact>
+</component>
